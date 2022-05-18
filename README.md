@@ -1,2 +1,1 @@
-# ModernVR
-A website about the leading company in Virtual Reality headsets! The future is just $499 away.
+This website works closely with flexboxes. It contains almost everything I have learned from HTML, CSS, and Flexbox
